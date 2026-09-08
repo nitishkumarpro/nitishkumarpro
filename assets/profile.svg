@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1560" width="1000" height="1560" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="0.5" stop-color="#101b3c"/>
+      <stop offset="1" stop-color="#071a2b"/>
+    </linearGradient>
+    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="70"/></filter>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="10" stdDeviation="20" flood-color="#000000" flood-opacity="0.35"/></filter>
+  </defs>
+  <rect width="1000" height="1560" fill="url(#bg)"/>
+  <circle cx="180" cy="160" r="150" fill="#22d3ee" opacity="0.28" filter="url(#blur)"/>
+  <circle cx="860" cy="420" r="170" fill="#a78bfa" opacity="0.25" filter="url(#blur)"/>
+  <circle cx="500" cy="1200" r="190" fill="#0ea5e9" opacity="0.18" filter="url(#blur)"/>
+  <circle cx="120" cy="900" r="140" fill="#f472b6" opacity="0.12" filter="url(#blur)"/>
+  <g filter="url(#shadow)"><rect x="40" y="40" width="920" height="260" rx="24" fill="#ffffff" fill-opacity="0.07" stroke="#ffffff" stroke-opacity="0.16" stroke-width="1.5"/></g>
+  <text x="80" y="128" font-size="44" font-weight="700" fill="#f8fafc">NITISH KUMAR</text>
+  <text x="80" y="168" font-size="20" font-weight="600" fill="#a5b4fc">Principal Architect · Full-Stack &amp; AI Engineer</text>
+  <text x="80" y="202" font-size="15" fill="#cbd5e1">I architect, build, develop and deliver anything the digital world demands — from idea to global scale.</text>
+  <g font-size="12" font-weight="600">
+    <rect x="80" y="228" width="150" height="28" rx="14" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.18"/>
+    <text x="155" y="247" fill="#e0f2fe" text-anchor="middle">Scalable Web Apps</text>
+    <rect x="242" y="228" width="100" height="28" rx="14" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.18"/>
+    <text x="292" y="247" fill="#e0f2fe" text-anchor="middle">AI Agents</text>
+    <rect x="354" y="228" width="160" height="28" rx="14" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.18"/>
+    <text x="434" y="247" fill="#e0f2fe" text-anchor="middle">Cloud Architecture</text>
+    <rect x="526" y="228" width="120" height="28" rx="14" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.18"/>
+    <text x="586" y="247" fill="#e0f2fe" text-anchor="middle">MVP to Scale</text>
+  </g>
+  <g filter="url(#shadow)"><rect x="40" y="330" width="920" height="210" rx="24" fill="#ffffff" fill-opacity="0.07" stroke="#ffffff" stroke-opacity="0.16" stroke-width="1.5"/></g>
+  <rect x="80" y="362" width="210" height="26" rx="13" fill="#22d3ee" fill-opacity="0.12" stroke="#22d3ee" stroke-opacity="0.45"/>
+  <text x="185" y="380" font-size="11" font-weight="700" fill="#67e8f9" text-anchor="middle" letter-spacing="1.5">OPEN TO PARTNERSHIP</text>
+  <text x="80" y="428" font-size="26" font-weight="700" fill="#f8fafc">Technical Co-Founder Partnership</text>
+  <text x="80" y="462" font-size="13" font-weight="700" fill="#67e8f9">YOU — BUSINESS</text>
+  <text x="80" y="486" font-size="14" fill="#cbd5e1">Market · Sales · Operations</text>
+  <text x="80" y="508" font-size="13" fill="#94a3b8">Full-time focus on growth &amp; revenue</text>
+  <line x1="500" y1="450" x2="500" y2="515" stroke="#ffffff" stroke-opacity="0.15"/>
+  <text x="540" y="462" font-size="13" font-weight="700" fill="#67e8f9">ME — CTO</text>
+  <text x="540" y="486" font-size="14" fill="#cbd5e1">Architecture · AI Integration</text>
+  <text x="540" y="508" font-size="13" fill="#94a3b8">Full-stack execution &amp; scaling</text>
+  <text x="40" y="592" font-size="22" font-weight="700" fill="#f8fafc">Services &amp; Digital Solutions</text>
+  <rect x="40" y="604" width="64" height="4" rx="2" fill="url(#acc)"/>
+  <g filter="url(#shadow)"><rect x="40" y="620" width="440" height="150" rx="20" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.14" stroke-width="1.2"/></g>
+  <circle cx="82" cy="662" r="14" fill="url(#acc)"/>
+  <text x="110" y="668" font-size="16" font-weight="600" fill="#f1f5f9">Rapid MVP &amp; Prototyping</text>
+  <text x="68" y="700" font-size="13" fill="#94a3b8">Investor-ready MVPs in weeks, built on a</text>
+  <text x="68" y="720" font-size="13" fill="#94a3b8">scalable, cloud-native foundation.</text>
+  <text x="68" y="746" font-size="10" font-weight="700" fill="#67e8f9" letter-spacing="1">SPEED · SCALE · PRODUCT FIT</text>
+  <g filter="url(#shadow)"><rect x="520" y="620" width="440" height="150" rx="20" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.14" stroke-width="1.2"/></g>
+  <circle cx="562" cy="662" r="14" fill="url(#acc)"/>
+  <text x="590" y="668" font-size="16" font-weight="600" fill="#f1f5f9">AI Agents &amp; RAG Systems</text>
+  <text x="548" y="700" font-size="13" fill="#94a3b8">Custom LLM workflows, retrieval pipelines</text>
+  <text x="548" y="720" font-size="13" fill="#94a3b8">and autonomous agents for business logic.</text>
+  <text x="548" y="746" font-size="10" font-weight="700" fill="#67e8f9" letter-spacing="1">LANGCHAIN · VECTOR DBS · LLM OPS</text>
+  <g filter="url(#shadow)"><rect x="40" y="790" width="440" height="150" rx="20" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.14" stroke-width="1.2"/></g>
+  <circle cx="82" cy="832" r="14" fill="url(#acc)"/>
+  <text x="110" y="838" font-size="16" font-weight="600" fill="#f1f5f9">Enterprise Web &amp; SaaS</text>
+  <text x="68" y="870" font-size="13" fill="#94a3b8">High-traffic platforms, multi-tenant</text>
+  <text x="68" y="890" font-size="13" fill="#94a3b8">dashboards and real-time collaboration.</text>
+  <text x="68" y="916" font-size="10" font-weight="700" fill="#67e8f9" letter-spacing="1">REACT · NEXT.JS · NODE.JS · WEBSOCKETS</text>
+  <g filter="url(#shadow)"><rect x="520" y="790" width="440" height="150" rx="20" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.14" stroke-width="1.2"/></g>
+  <circle cx="562" cy="832" r="14" fill="url(#acc)"/>
+  <text x="590" y="838" font-size="16" font-weight="600" fill="#f1f5f9">Cloud Architecture</text>
+  <text x="548" y="870" font-size="13" fill="#94a3b8">Fault-tolerant microservices and serverless</text>
+  <text x="548" y="890" font-size="13" fill="#94a3b8">systems that scale to millions of users.</text>
+  <text x="548" y="916" font-size="10" font-weight="700" fill="#67e8f9" letter-spacing="1">AWS · KUBERNETES · TERRAFORM · CI/CD</text>
+  <g filter="url(#shadow)"><rect x="40" y="960" width="440" height="150" rx="20" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.14" stroke-width="1.2"/></g>
+  <circle cx="82" cy="1002" r="14" fill="url(#acc)"/>
+  <text x="110" y="1008" font-size="16" font-weight="600" fill="#f1f5f9">Performance &amp; Audits</text>
+  <text x="68" y="1040" font-size="13" fill="#94a3b8">Codebase audits, query tuning and rendering</text>
+  <text x="68" y="1060" font-size="13" fill="#94a3b8">optimization for speed, cost and security.</text>
+  <text x="68" y="1086" font-size="10" font-weight="700" fill="#67e8f9" letter-spacing="1">CORE WEB VITALS · INDEXING · HARDENING</text>
+  <g filter="url(#shadow)"><rect x="520" y="960" width="440" height="150" rx="20" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.14" stroke-width="1.2"/></g>
+  <circle cx="562" cy="1002" r="14" fill="url(#acc)"/>
+  <text x="590" y="1008" font-size="16" font-weight="600" fill="#f1f5f9">Legacy Modernization</text>
+  <text x="548" y="1040" font-size="13" fill="#94a3b8">Migrate monoliths to modern, AI-ready</text>
+  <text x="548" y="1060" font-size="13" fill="#94a3b8">stacks without disrupting operations.</text>
+  <text x="548" y="1086" font-size="10" font-weight="700" fill="#67e8f9" letter-spacing="1">REFACTORING · API DECOUPLING · MIGRATION</text>
+  <g filter="url(#shadow)"><rect x="40" y="1140" width="920" height="250" rx="24" fill="#ffffff" fill-opacity="0.07" stroke="#ffffff" stroke-opacity="0.16" stroke-width="1.5"/></g>
+  <text x="80" y="1184" font-size="22" font-weight="700" fill="#f8fafc">Tech Stack &amp; Arsenal</text>
+  <rect x="80" y="1196" width="56" height="4" rx="2" fill="url(#acc)"/>
+  <g font-size="12">
+    <rect x="80" y="1220" width="98" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.16"/><text x="94" y="1240" fill="#e2e8f0">TypeScript</text>
+    <rect x="190" y="1220" width="70" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.16"/><text x="204" y="1240" fill="#e2e8f0">Python</text>
+    <rect x="272" y="1220" width="98" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.16"/><text x="286" y="1240" fill="#e2e8f0">JavaScript</text>
+    <rect x="382" y="1220" width="42" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.16"/><text x="396" y="1240" fill="#e2e8f0">Go</text>
+    <rect x="436" y="1220" width="56" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.16"/><text x="450" y="1240" fill="#e2e8f0">Rust</text>
+    <rect x="504" y="1220" width="63" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.16"/><text x="518" y="1240" fill="#e2e8f0">React</text>
+    <rect x="579" y="1220" width="77" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.16"/><text x="593" y="1240" fill="#e2e8f0">Next.js</text>
+    <rect x="80" y="1264" width="77" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.16"/><text x="94" y="1284" fill="#e2e8f0">Node.js</text>
+    <rect x="169" y="1264" width="77" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.16"/><text x="183" y="1284" fill="#e2e8f0">FastAPI</text>
+    <rect x="258" y="1264" width="77" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.16"/><text x="272" y="1284" fill="#e2e8f0">GraphQL</text>
+    <rect x="347" y="1264" width="91" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.16"/><text x="361" y="1284" fill="#e2e8f0">LangChain</text>
+    <rect x="450" y="1264" width="70" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.16"/><text x="464" y="1284" fill="#e2e8f0">OpenAI</text>
+    <rect x="532" y="1264" width="98" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.16"/><text x="546" y="1284" fill="#e2e8f0">PostgreSQL</text>
+    <rect x="642" y="1264" width="77" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.16"/><text x="656" y="1284" fill="#e2e8f0">MongoDB</text>
+    <rect x="80" y="1308" width="63" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.16"/><text x="94" y="1328" fill="#e2e8f0">Redis</text>
+    <rect x="155" y="1308" width="49" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.16"/><text x="169" y="1328" fill="#e2e8f0">AWS</text>
+    <rect x="216" y="1308" width="70" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.16"/><text x="230" y="1328" fill="#e2e8f0">Docker</text>
+    <rect x="298" y="1308" width="98" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.16"/><text x="312" y="1328" fill="#e2e8f0">Kubernetes</text>
+    <rect x="408" y="1308" width="91" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.16"/><text x="422" y="1328" fill="#e2e8f0">Terraform</text>
+    <rect x="511" y="1308" width="140" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.16"/><text x="525" y="1328" fill="#e2e8f0">GitHub Actions</text>
+    <rect x="663" y="1308" width="84" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.16"/><text x="677" y="1328" fill="#e2e8f0">Tailwind</text>
+  </g>
+  <g filter="url(#shadow)"><rect x="40" y="1420" width="920" height="110" rx="24" fill="#ffffff" fill-opacity="0.07" stroke="#ffffff" stroke-opacity="0.16" stroke-width="1.5"/></g>
+  <text x="500" y="1465" font-size="17" font-weight="600" fill="#f1f5f9" text-anchor="middle">I build, develop and deliver anything the digital world demands.</text>
+  <text x="500" y="1495" font-size="12.5" fill="#94a3b8" text-anchor="middle">nitishkumar.pro   ·   linkedin.com/in/nitishkumarpro   ·   dev.to/nitishkumarpro</text>
+</svg>
