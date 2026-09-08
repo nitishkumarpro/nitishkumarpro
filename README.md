@@ -18,55 +18,90 @@
 <!-- About Me -->
 ### 👨‍💻 About Me
 
-I am a **Full-Stack & AI Engineer** and **Principal Architect** with a passion for building scalable web applications and autonomous AI agents. 
+I am a **Full-Stack & AI Engineer** and **Principal Architect**. I architect, build, develop, and deliver end-to-end digital solutions. If it lives in the digital world, I have the skills to conceptualize it, code it, and scale it.
 
-- 🔭 I’m currently architecting scalable solutions and building next-gen AI agents.
-- 🌱 Exploring advanced AI integrations, LLM orchestration, and system design.
+- 🔭 Currently architecting scalable solutions and building next-gen autonomous AI agents.
+- 🌱 Exploring advanced AI integrations, LLM orchestration, and distributed system design.
 - 💡 Passionate about clean architecture, performance optimization, and developer tooling.
-- 💬 Ask me about **React, Node.js, Python, AI Agents, and Scalable System Design**.
-- 📫 Reach me at: **nitishkumar.pro** or via [LinkedIn](https://www.linkedin.com/in/nitishkumarpro/).
+- 💬 Ask me about complex system design, AI workflows, and scalable web platforms.
+
+<br />
+
+<!-- Services Section -->
+### 🚀 What I Do (Services)
+I provide end-to-end digital engineering services. From initial concept and system design to deployment and scaling. **If you need it built, I can deliver it.**
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Full-Stack Web Development</h3>
+      <p>Building highly responsive, scalable, and performant web applications using modern frameworks. Pixel-perfect UI combined with robust backend logic.</p>
+      <b>Tech:</b> React, Next.js, Node.js, TypeScript, Tailwind CSS
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 AI Agents & LLM Integration</h3>
+      <p>Designing and deploying autonomous AI agents, custom RAG (Retrieval-Augmented Generation) pipelines, and intelligent workflow automations.</p>
+      <b>Tech:</b> Python, LangChain, OpenAI API, Vector Databases
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏗️ System Architecture & Cloud</h3>
+      <p>Designing robust microservices, CI/CD pipelines, and cloud infrastructure to handle enterprise-grade traffic and data loads.</p>
+      <b>Tech:</b> AWS, Docker, Kubernetes, PostgreSQL, Redis
+    </td>
+    <td width="50%" valign="top">
+      <h3>💼 Technical Consulting & Audits</h3>
+      <p>Codebase reviews, performance bottleneck resolution, architecture migrations, and technical leadership for engineering teams.</p>
+      <b>Tech:</b> Code Refactoring, Security Audits, Scalability Planning
+    </td>
+  </tr>
+</table>
 
 <br />
 
 <!-- Tech Stack -->
 ### 🛠️ Tech Stack & Arsenal
 
-**Languages:**
+**Languages & Core:**
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
 
-**Frontend:**
+**Frontend & UI:**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge)
 
 **Backend & AI:**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logo=langchain&logoColor=white&style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/-OpenAI_API-412991?logo=openai&logoColor=white&style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
 
-**Database & Cloud:**
+**Database, Cloud & DevOps:**
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge)
 
 <br />
 
-<!-- GitHub Stats -->
-### 📊 GitHub Analytics
+<!-- Call to Action -->
+### 📬 Let's Build Something Digital
+Need a complex web platform, an autonomous AI agent, or a system architecture overhaul? I build, develop, and deliver any digital solution you can envision. 
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nitishkumarpro&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Nitish's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishkumarpro&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
+<p align="center">
+  <a href="mailto:contact@nitishkumar.pro"><img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/nitishkumarpro/"><img src="https://img.shields.io/badge/LinkedIn-Message_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://nitishkumar.pro/"><img src="https://img.shields.io/badge/Website-Hire_Me-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Website"></a>
+</p>
 
-<div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=nitishkumarpro&theme=radical&hide_border=true" alt="Nitish's GitHub Streak" />
-</div>
-
-<br />
-
-<!-- Footer -->
 ---
 <p align="center">
   <a href="https://github.com/nitishkumarpro">
